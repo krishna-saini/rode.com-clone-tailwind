@@ -21,9 +21,6 @@ This is a solution to the Tailwind project no. 03 given in Full Stack Web develo
 
 ### The challenge
 
-Users should be able to
-
-
 - code the given design [rode microphones](https://rode.com/en) using HTML and tailwind CSS
 - make it responsive
 
