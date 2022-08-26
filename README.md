@@ -4,7 +4,7 @@ This is a solution to the Tailwind project no. 03 given in Full Stack Web develo
 ## Table of contents
 
 - [Overview](#overview)
-
+  - [The Challenge](#The-challenge)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
